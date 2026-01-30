@@ -1,0 +1,274 @@
+{
+    "profile": {
+        "name": "Santiago Villavicencio",
+        "title": "Software Developer",
+        "email": "villavicencioandrs@gmail.com",
+        "phone": "+49 155 63613195",
+        "location": "Landshut, Bavaria, Germany",
+        "bio": "Master's student in Computer Science with 3+ years of professional software development experience. Specialized in automotive software development, cloud technologies, and modern development practices.",
+        "profileImage": "assets/profile.jpg",
+        "social": [
+            {
+                "platform": "LinkedIn",
+                "url": "https://www.linkedin.com/in/santiago-andres-villavicencio-72b0b9140/",
+                "icon": "linkedin"
+            },
+            {
+                "platform": "GitHub",
+                "url": "https://github.com/santiago200031",
+                "icon": "github"
+            }
+        ]
+    },
+    "experience": [
+        {
+            "id": 1,
+            "company": "NTT DATA",
+            "position": "Software Developer (Student Worker)",
+            "startDate": "2023-02",
+            "endDate": null,
+            "current": true,
+            "description": "Software development for the automotive sector with 3+ years of professional experience",
+            "highlights": [
+                "Participation in all Scrum ceremonies (Daily, Refinement, Estimation, Review)",
+                "Processing of user stories and business requirements",
+                "Ensuring business logic through unit and integration tests",
+                "Analysis and resolution of defects and incidents",
+                "AWS cloud infrastructure management and RESTful Web Services implementation",
+                "Documentation and knowledge transfer"
+            ],
+            "technologies": [
+                "AWS",
+                "RESTful Web Services",
+                "Git",
+                "Java",
+                "Python",
+                "Scrum"
+            ]
+        },
+        {
+            "id": 2,
+            "company": "NTT DATA",
+            "position": "Software Developer (Internship)",
+            "startDate": "2022-10",
+            "endDate": "2023-02",
+            "current": false,
+            "description": "Internship in automotive software development within Portfolio Application & DevOps Services",
+            "highlights": [
+                "Participated in all Scrum ceremonies and processes",
+                "Processed user stories and technical tasks",
+                "Wrote and maintained unit and integration tests",
+                "Analyzed and fixed defects according to SLA agreements",
+                "Delivered presentations to customers"
+            ],
+            "technologies": [
+                "AWS",
+                "Git",
+                "Java",
+                "Scrum",
+                "Testing"
+            ]
+        },
+        {
+            "id": 3,
+            "company": "TÜV SÜD",
+            "position": "Software Developer (Student Worker)",
+            "startDate": "2021-10",
+            "endDate": "2022-09",
+            "current": false,
+            "description": "Software development and cloud technology projects with modern web frameworks",
+            "highlights": [
+                "Web framework development using Blazor",
+                "Workflow automation for task scheduling",
+                "ChatBot creation in MS Teams for customer inquiries",
+                "Git repository management and version control",
+                "CI/CD pipeline setup and optimization"
+            ],
+            "technologies": [
+                "Blazor",
+                "Git",
+                "OutSystems",
+                "C#",
+                "Workflow Automation"
+            ]
+        },
+        {
+            "id": 4,
+            "company": "Valeria Espresso Panini Bar",
+            "position": "Barista",
+            "startDate": "2021-06",
+            "endDate": "2021-09",
+            "current": false,
+            "description": "Customer service and beverage preparation in a professional café environment",
+            "highlights": [
+                "Coffee and liqueur preparation with attention to detail",
+                "Customer service and relationship management"
+            ],
+            "technologies": [
+                "Customer Service"
+            ]
+        },
+        {
+            "id": 5,
+            "company": "Vittal (Self-employed)",
+            "position": "Java Developer",
+            "startDate": "2020-07",
+            "endDate": "2020-08",
+            "current": false,
+            "description": "Development of a comprehensive system for a water treatment company",
+            "highlights": [
+                "Full-stack Java application development",
+                "MySQL database design and implementation",
+                "Report generation using iReport",
+                "GitHub repository management"
+            ],
+            "technologies": [
+                "Java",
+                "MySQL",
+                "NetBeans",
+                "IntelliJ IDEA",
+                "iReport",
+                "GitHub"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "institution": "Hochschule Landshut",
+            "degree": "Master of Science",
+            "field": "Computer Science (Informatik)",
+            "startDate": "2025-03",
+            "endDate": "2025-03",
+            "description": "Graduate program in Computer Science with focus on algorithms and artificial intelligence"
+        },
+        {
+            "id": 2,
+            "institution": "Hochschule Landshut",
+            "degree": "Bachelor of Science",
+            "field": "Computer Science (Informatik)",
+            "startDate": "2021-10",
+            "endDate": "2024-11",
+            "description": "Grade: 2.6 (Good). Coursework included algorithms, AI, data structures, and software engineering"
+        }
+    ],
+    "skills": [
+        {
+            "category": "Backend Development",
+            "proficiency": "Expert",
+            "technologies": [
+                "Java",
+                "Python",
+                "C#",
+                "REST APIs",
+                "Microservices",
+                "Spring Boot"
+            ]
+        },
+        {
+            "category": "Frontend Development",
+            "proficiency": "Intermediate",
+            "technologies": [
+                "Blazor",
+                "HTML/CSS",
+                "JavaScript",
+                "Angular"
+            ]
+        },
+        {
+            "category": "Cloud & DevOps",
+            "proficiency": "Advanced",
+            "technologies": [
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "CI/CD",
+                "Git",
+                "GitHub Actions"
+            ]
+        },
+        {
+            "category": "Databases",
+            "proficiency": "Advanced",
+            "technologies": [
+                "MySQL",
+                "PostgreSQL",
+                "JDBC",
+                "SQL"
+            ]
+        },
+        {
+            "category": "Agile & Methodologies",
+            "proficiency": "Expert",
+            "technologies": [
+                "Scrum",
+                "JIRA",
+                "Agile Development",
+                "Test-Driven Development"
+            ]
+        },
+        {
+            "category": "AI & Machine Learning",
+            "proficiency": "Intermediate",
+            "technologies": [
+                "Artificial Intelligence",
+                "Algorithms",
+                "Data Structures",
+                "GenAI"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "Automotive Software Development",
+            "description": "Contributed to large-scale automotive software systems for NTT DATA with focus on reliability and performance",
+            "technologies": [
+                "Java",
+                "AWS",
+                "REST APIs",
+                "Scrum",
+                "Git"
+            ],
+            "link": "https://www.nttdata.com"
+        },
+        {
+            "id": 2,
+            "title": "Blazor Web Applications",
+            "description": "Developed modern web applications using Blazor framework with automated workflows and team communication bots",
+            "technologies": [
+                "Blazor",
+                "C#",
+                "OutSystems",
+                "Git"
+            ],
+            "link": "https://github.com/santiago200031"
+        },
+        {
+            "id": 3,
+            "title": "Water Treatment Management System",
+            "description": "Designed and developed a comprehensive Java application for water treatment facility management with MySQL backend",
+            "technologies": [
+                "Java",
+                "MySQL",
+                "iReport",
+                "NetBeans"
+            ],
+            "link": "https://github.com/santiago200031"
+        }
+    ],
+    "languages": [
+        {
+            "language": "German",
+            "proficiency": "Fluent (Verhandlungssicher)"
+        },
+        {
+            "language": "English",
+            "proficiency": "Fluent (Verhandlungssicher)"
+        },
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        }
+    ]
+}

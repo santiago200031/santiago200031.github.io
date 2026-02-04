@@ -5,7 +5,7 @@
         "email": "villavicencioandrs@gmail.com",
         "phone": "+49 155 63613195",
         "location": "Landshut, Bavaria, Germany",
-        "bio": "Master's student in Computer Science with 3+ years of professional software development experience. Specialized in automotive software development, cloud technologies, and modern development practices.",
+        "bio": "Master's student in Computer Science with 3+ years of professional software development experience. Specialized in automotive software development, cloud technologies, and AI/LLM integration. Experienced in MCP (Model Context Protocol), local LLM deployment using Ollama, LangChain4j with Quarkus framework. Passionate about building intelligent applications and always open to exchanging ideas and collaborating on innovative projects.",
         "profileImage": "assets/profile.jpg",
         "social": [
             {
@@ -28,14 +28,18 @@
             "startDate": "2023-02",
             "endDate": null,
             "current": true,
-            "description": "Software development for the automotive sector with 3+ years of professional experience",
+            "description": "Software development for the automotive sector with 3+ years of professional experience in Java and cloud technologies. Currently working on team efficiency improvements through VS Code with GitHub Copilot integration",
             "highlights": [
                 "Participation in all Scrum ceremonies (Daily, Refinement, Estimation, Review)",
                 "Processing of user stories and business requirements",
                 "Ensuring business logic through unit and integration tests",
                 "Analysis and resolution of defects and incidents",
                 "AWS cloud infrastructure management and RESTful Web Services implementation",
-                "Documentation and knowledge transfer"
+                "Documentation and knowledge transfer",
+                "Exploration of AI/LLM integration for automation and productivity enhancement",
+                "Developed specialized VS Code agents and custom skills to improve team productivity",
+                "Configured MCP servers through Docker for seamless integration",
+                "Worked on 2 additional automotive software projects with focus on system reliability"
             ],
             "technologies": [
                 "AWS",
@@ -43,7 +47,11 @@
                 "Git",
                 "Java",
                 "Python",
-                "Scrum"
+                "Scrum",
+                "VS Code",
+                "GitHub Copilot",
+                "Docker",
+                "MCP"
             ]
         },
         {
@@ -53,13 +61,15 @@
             "startDate": "2022-10",
             "endDate": "2023-02",
             "current": false,
-            "description": "Internship in automotive software development within Portfolio Application & DevOps Services",
+            "description": "Internship in Portfolio Application & DevOps Services for automotive software development",
             "highlights": [
-                "Participated in all Scrum ceremonies and processes",
+                "Participated in all Scrum ceremonies (Daily, Refinement, Estimation, Review)",
                 "Processed user stories and technical tasks",
-                "Wrote and maintained unit and integration tests",
-                "Analyzed and fixed defects according to SLA agreements",
-                "Delivered presentations to customers"
+                "Ensured business functionality through unit and integration tests",
+                "Delivered presentations of work results to customers",
+                "Analyzed and fixed defects",
+                "Analyzed and processed incidents according to Service Level Agreements",
+                "Documentation"
             ],
             "technologies": [
                 "AWS",
@@ -76,13 +86,12 @@
             "startDate": "2021-10",
             "endDate": "2022-09",
             "current": false,
-            "description": "Software development and cloud technology projects with modern web frameworks",
+            "description": "Software development and cloud technology projects using modern web frameworks",
             "highlights": [
-                "Web framework development using Blazor",
-                "Workflow automation for task scheduling",
-                "ChatBot creation in MS Teams for customer inquiries",
-                "Git repository management and version control",
-                "CI/CD pipeline setup and optimization"
+                "Supported projects with Blazor web framework using GitHub as repository",
+                "Created workflows to automate tasks",
+                "Created ChatBots in MS Teams for customer inquiries",
+                "Git repository management and version control"
             ],
             "technologies": [
                 "Blazor",
@@ -115,12 +124,13 @@
             "startDate": "2020-07",
             "endDate": "2020-08",
             "current": false,
-            "description": "Development of a comprehensive system for a water treatment company",
+            "description": "Development of a comprehensive Java program for a new water treatment company",
             "highlights": [
                 "Full-stack Java application development",
-                "MySQL database design and implementation",
-                "Report generation using iReport",
-                "GitHub repository management"
+                "Database: MySQL with JDBC connectivity",
+                "IDEs: NetBeans, IntelliJ IDEA",
+                "Reports: iReport",
+                "Repository: GitHub"
             ],
             "technologies": [
                 "Java",
@@ -139,8 +149,9 @@
             "degree": "Master of Science",
             "field": "Computer Science (Informatik)",
             "startDate": "2025-03",
-            "endDate": "2025-03",
-            "description": "Graduate program in Computer Science with focus on algorithms and artificial intelligence"
+            "endDate": "2026-09",
+            "description": "Graduate program in Computer Science with focus on artificial intelligence, machine learning, and LLM integration. Current semester includes mobile application development with Kotlin, machine learning coursework, neural networks, and AI system architecture. Advanced software engineering module focusing on managing complex software projects and career development.",
+            "skills": ["Kotlin", "Mobile Development", "Firebase", "Machine Learning", "Neural Networks", "AI System Architecture"]
         },
         {
             "id": 2,
@@ -149,7 +160,19 @@
             "field": "Computer Science (Informatik)",
             "startDate": "2021-10",
             "endDate": "2024-11",
-            "description": "Grade: 2.6 (Good). Coursework included algorithms, AI, data structures, and software engineering"
+            "description": "Comprehensive coursework covering algorithms, artificial intelligence, data structures, software engineering, database systems, and web development. Bachelor's thesis focused on practical software development solutions.",
+            "skills": ["Algorithmen", "Künstliche Intelligenz (KI)", "Core Java", "Cluster", "Deep Learning", "Datenstrukturen", "Software Engineering", "Datenbanken"]
+        },
+        {
+            "id": 3,
+            "institution": "Universidad Técnica de Ambato",
+            "degree": "Software Engineering",
+            "field": "Software",
+            "startDate": "2018",
+            "endDate": "2020",
+            "grade": "2.5",
+            "description": "Grade: 2.5 (Good)",
+            "skills": ["Algorithmen", "Java", "Datenstrukturen", "Software Engineering", "Database"]
         }
     ],
     "skills": [
@@ -209,28 +232,44 @@
         },
         {
             "category": "AI & Machine Learning",
-            "proficiency": "Intermediate",
+            "proficiency": "Advanced",
             "technologies": [
                 "Artificial Intelligence",
-                "Algorithms",
-                "Data Structures",
-                "GenAI"
+                "Machine Learning",
+                "Neural Networks",
+                "GenAI",
+                "LLM Integration",
+                "RAG (Retrieval-Augmented Generation)"
+            ]
+        },
+        {
+            "category": "LLM & AI Tools",
+            "proficiency": "Advanced",
+            "technologies": [
+                "MCP (Model Context Protocol)",
+                "Fast MCP",
+                "Ollama",
+                "LangChain4j",
+                "Quarkus",
+                "Local LLM Deployment",
+                "Prompt Engineering",
+                "OpenCode",
+                "GitHub Copilot",
+                "VS Code AI Agents"
             ]
         }
     ],
     "projects": [
         {
             "id": 1,
-            "title": "Automotive Software Development",
-            "description": "Contributed to large-scale automotive software systems for NTT DATA with focus on reliability and performance",
+            "title": "Water Treatment Management System",
+            "description": "Designed and developed a comprehensive Java application for water treatment facility management with MySQL backend",
             "technologies": [
                 "Java",
-                "AWS",
-                "REST APIs",
-                "Scrum",
-                "Git"
-            ],
-            "link": "https://www.nttdata.com"
+                "MySQL",
+                "iReport",
+                "NetBeans"
+            ]
         },
         {
             "id": 2,
@@ -241,20 +280,106 @@
                 "C#",
                 "OutSystems",
                 "Git"
-            ],
-            "link": "https://github.com/santiago200031"
+            ]
         },
         {
             "id": 3,
-            "title": "Water Treatment Management System",
-            "description": "Designed and developed a comprehensive Java application for water treatment facility management with MySQL backend",
+            "title": "Automotive Software Development",
+            "description": "Contributed to large-scale automotive software systems for NTT DATA with focus on reliability and performance",
             "technologies": [
                 "Java",
-                "MySQL",
-                "iReport",
-                "NetBeans"
-            ],
-            "link": "https://github.com/santiago200031"
+                "AWS",
+                "REST APIs",
+                "Scrum",
+                "Git"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "LLM-Powered Java Application",
+            "description": "Built an intelligent application using LangChain4j with Quarkus framework, integrating local LLMs via Ollama for natural language processing tasks and automated code assistance",
+            "technologies": [
+                "LangChain4j",
+                "Quarkus",
+                "Ollama",
+                "Java",
+                "LLM Integration"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Automotive Software Project A",
+            "description": "Contributed to automotive software development project focusing on vehicle systems integration and cloud connectivity",
+            "technologies": [
+                "Java",
+                "AWS",
+                "REST APIs",
+                "Git",
+                "Scrum"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Automotive Software Project B",
+            "description": "Developed features for automotive systems with focus on reliability and performance optimization",
+            "technologies": [
+                "Java",
+                "AWS",
+                "REST APIs",
+                "Git",
+                "CI/CD"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "VS Code AI Agents and Team Efficiency",
+            "description": "Led development of specialized agents and custom VS Code skills to improve team productivity. Utilized VS Code with GitHub Copilot for enhanced development workflow. Configured MCP servers through Docker for seamless integration.",
+            "technologies": [
+                "VS Code",
+                "GitHub Copilot",
+                "Docker",
+                "MCP",
+                "AI Agents",
+                "Team Productivity"
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "name": "MCP Crash Course: Complete Model Context Protocol in a Day",
+            "issuer": "Udemy",
+            "date": "2025-08",
+            "credentialId": "UC-14ad48bc-1a50-4ffd-b825-9882b436fb23"
+        },
+        {
+            "name": "GenAI Akademie: Yellow Belt Level 2 for Developers",
+            "issuer": "NTT DATA Group",
+            "date": "2025-08",
+            "credentialId": "15884106"
+        },
+        {
+            "name": "GenAI Akademie: Yellow Belt Level 1",
+            "issuer": "NTT DATA Group",
+            "date": "2025",
+            "credentialId": "13514444"
+        },
+        {
+            "name": "GenAI Academy: White Belt",
+            "issuer": "NTT DATA Group",
+            "date": "2025",
+            "credentialId": "13514211"
+        },
+        {
+            "name": "Spring Boot Grundkurs",
+            "issuer": "LinkedIn Learning",
+            "date": "2025",
+            "credentialId": "283d99a6877ce818a50ec339993c54ddffe4693e46ebc164270c03217a6eaed1"
+        },
+        {
+            "name": "Grundlagen der Programmierung: Datenstrukturen",
+            "issuer": "LinkedIn Learning",
+            "date": "2025",
+            "credentialId": "0bf5f03d8553c60adb7343da03ea23e0ce3d4d2e7508ac2f70ca5938c56fe7eb"
         }
     ],
     "languages": [

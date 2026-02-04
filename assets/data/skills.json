@@ -1,0 +1,44 @@
+[
+    {
+        "category": "Programming Languages",
+        "proficiency": "Expert",
+        "technologies": [
+            "TypeScript",
+            "JavaScript",
+            "Java",
+            "Python"
+        ]
+    },
+    {
+        "category": "Frameworks & Libraries",
+        "proficiency": "Advanced",
+        "technologies": [
+            "Angular",
+            "React",
+            "Node.js",
+            "Quarkus",
+            "Spring Boot"
+        ]
+    },
+    {
+        "category": "Cloud & DevOps",
+        "proficiency": "Advanced",
+        "technologies": [
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "Git",
+            "CI/CD"
+        ]
+    },
+    {
+        "category": "AI & Machine Learning",
+        "proficiency": "Intermediate",
+        "technologies": [
+            "LangChain",
+            "Ollama",
+            "TensorFlow",
+            "PyTorch"
+        ]
+    }
+]

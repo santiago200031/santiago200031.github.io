@@ -1,0 +1,21 @@
+{
+    "name": "Santiago Villavicencio",
+    "title": "Software Developer",
+    "email": "villavicencioandrs@gmail.com",
+    "phone": "+49 155 63613195",
+    "location": "Landshut, Bavaria, Germany",
+    "bio": "Master's student in Computer Science with 3+ years of professional software development experience. Specialized in automotive software development, cloud technologies, and AI/LLM integration. Experienced in MCP (Model Context Protocol), local LLM deployment using Ollama, LangChain4j with Quarkus framework. Passionate about building intelligent applications and always open to exchanging ideas and collaborating on innovative projects.",
+    "profileImage": "assets/profile.jpg",
+    "social": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/santiago-andres-villavicencio-72b0b9140/",
+            "icon": "linkedin"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/santiago200031",
+            "icon": "github"
+        }
+    ]
+}

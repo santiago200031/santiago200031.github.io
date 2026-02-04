@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "company": "NTT DATA",
+        "position": "Software Developer (Student Worker)",
+        "startDate": "2023-02",
+        "endDate": null,
+        "current": true,
+        "description": "Software development for automotive sector with 3+ years of professional experience in Java and cloud technologies. Currently working on team efficiency improvements through VS Code with GitHub Copilot integration",
+        "highlights": [
+                "Participation in all Scrum ceremonies (Daily, Refinement, Estimation, Review)",
+                "Processing of user stories and business requirements",
+                "Ensuring business logic through unit and integration tests",
+                "Analysis and resolution of defects and incidents",
+                "AWS cloud infrastructure management and RESTful Web Services implementation",
+                "Documentation and knowledge transfer",
+                "Exploration of AI/LLM integration for automation and productivity enhancement",
+                "Developed specialized VS Code agents and custom skills to improve team productivity",
+                "Configured MCP servers through Docker for seamless integration",
+                "Worked on 2 additional automotive software projects with focus on system reliability"
+        ],
+        "technologies": [
+                "AWS",
+                "RESTful Web Services",
+                "Git",
+                "Java",
+                "Python",
+                "Scrum",
+                "VS Code",
+                "GitHub Copilot",
+                "Docker",
+                "MCP"
+        ]
+    }
+]

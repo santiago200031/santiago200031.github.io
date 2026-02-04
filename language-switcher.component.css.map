@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["angular:styles/component:css;543716bc755bb4d211ca18c6382207bc1f3ee204d9b2a668e81a6da436b35ae5;C:/Users/villa/Documents/ProgrammingProjects/cv-app/src/app/components/language-switcher.component.ts"],
-  "sourcesContent": ["\n    .language-switcher {\n      position: fixed;\n      top: 20px;\n      right: 20px;\n      z-index: 1000;\n      display: flex;\n      gap: 8px;\n      background: rgba(255, 255, 255, 0.9);\n      padding: 8px;\n      border-radius: 8px;\n      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);\n    }\n    \n    .lang-btn {\n      padding: 6px 12px;\n      border: 1px solid #ddd;\n      background: white;\n      border-radius: 4px;\n      cursor: pointer;\n      font-size: 14px;\n      transition: all 0.3s ease;\n    }\n    \n    .lang-btn:hover {\n      background: #f5f5f5;\n      border-color: #999;\n    }\n    \n    .lang-btn.active {\n      background: #007bff;\n      color: white;\n      border-color: #007bff;\n    }\n  "],
-  "mappings": ";AACI,CAAC;AACC,YAAU;AACV,OAAK;AACL,SAAO;AACP,WAAS;AACT,WAAS;AACT,OAAK;AACL,cAAY,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE;AAChC,WAAS;AACT,iBAAe;AACf,cAAY,EAAE,IAAI,IAAI,KAAK,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE;AACtC;AAEA,CAAC;AACC,WAAS,IAAI;AACb,UAAQ,IAAI,MAAM;AAClB,cAAY;AACZ,iBAAe;AACf,UAAQ;AACR,aAAW;AACX,cAAY,IAAI,KAAK;AACvB;AAEA,CAVC,QAUQ;AACP,cAAY;AACZ,gBAAc;AAChB;AAEA,CAfC,QAeQ,CAAC;AACR,cAAY;AACZ,SAAO;AACP,gBAAc;AAChB;",
-  "names": []
-}

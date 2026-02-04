@@ -1,0 +1,27 @@
+{
+  "NAV": {
+    "ABOUT": "Über mich",
+    "EXPERIENCE": "Erfahrung",
+    "SKILLS": "Fähigkeiten",
+    "EDUCATION": "Ausbildung",
+    "PROJECTS": "Projekte"
+  },
+  "HERO": {
+    "TITLE": "Softwareentwickler",
+    "CURRENT": "Aktuell",
+    "PRESENT": "Heute"
+  },
+  "SECTIONS": {
+    "EXPERIENCE": "Berufserfahrung",
+    "SKILLS": "Fähigkeiten & Expertise",
+    "EDUCATION": "Ausbildung",
+    "PROJECTS": "Projekte",
+    "LANGUAGES": "Sprachen"
+  },
+  "FOOTER": {
+    "COPYRIGHT": "Alle Rechte vorbehalten",
+    "BUILT_WITH": "Erstellt mit Angular & ❤️"
+  },
+  "LOADING": "CV wird geladen...",
+  "ERROR": "Fehler beim Laden der CV-Daten"
+}

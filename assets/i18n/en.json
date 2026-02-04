@@ -22,6 +22,7 @@
     "COPYRIGHT": "All rights reserved",
     "BUILT_WITH": "Built with Angular & ❤️"
   },
+  "VIEW_PROJECT": "View Project",
   "LOADING": "Loading CV...",
   "ERROR": "Error loading CV data"
 }

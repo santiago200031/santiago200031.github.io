@@ -284,7 +284,7 @@
         },
         {
             "id": 3,
-            "title": "Automotive Software Development",
+            "title": "Automotive Software Development A (NTT DATA)",
             "description": "Contributed to large-scale automotive software systems for NTT DATA with focus on reliability and performance",
             "technologies": [
                 "Java",
@@ -308,7 +308,7 @@
         },
         {
             "id": 5,
-            "title": "Automotive Software Project A",
+            "title": "Automotive Software Project B (NTT DATA)",
             "description": "Contributed to automotive software development project focusing on vehicle systems integration and cloud connectivity",
             "technologies": [
                 "Java",
@@ -320,7 +320,7 @@
         },
         {
             "id": 6,
-            "title": "Automotive Software Project B",
+            "title": "Automotive Software Project C (NTT DATA)",
             "description": "Developed features for automotive systems with focus on reliability and performance optimization",
             "technologies": [
                 "Java",

@@ -1,0 +1,27 @@
+{
+  "NAV": {
+    "ABOUT": "About",
+    "EXPERIENCE": "Experience",
+    "SKILLS": "Skills",
+    "EDUCATION": "Education",
+    "PROJECTS": "Projects"
+  },
+  "HERO": {
+    "TITLE": "Software Developer",
+    "CURRENT": "Current",
+    "PRESENT": "Present"
+  },
+  "SECTIONS": {
+    "EXPERIENCE": "Professional Experience",
+    "SKILLS": "Skills & Expertise",
+    "EDUCATION": "Education",
+    "PROJECTS": "Featured Projects",
+    "LANGUAGES": "Languages"
+  },
+  "FOOTER": {
+    "COPYRIGHT": "All rights reserved",
+    "BUILT_WITH": "Built with Angular & ❤️"
+  },
+  "LOADING": "Loading CV...",
+  "ERROR": "Error loading CV data"
+}

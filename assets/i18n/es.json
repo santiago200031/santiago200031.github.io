@@ -1,0 +1,27 @@
+{
+  "NAV": {
+    "ABOUT": "Sobre mí",
+    "EXPERIENCE": "Experiencia",
+    "SKILLS": "Habilidades",
+    "EDUCATION": "Educación",
+    "PROJECTS": "Proyectos"
+  },
+  "HERO": {
+    "TITLE": "Desarrollador de Software",
+    "CURRENT": "Actual",
+    "PRESENT": "Presente"
+  },
+  "SECTIONS": {
+    "EXPERIENCE": "Experiencia Profesional",
+    "SKILLS": "Habilidades y Experiencia",
+    "EDUCATION": "Educación",
+    "PROJECTS": "Proyectos Destacados",
+    "LANGUAGES": "Idiomas"
+  },
+  "FOOTER": {
+    "COPYRIGHT": "Todos los derechos reservados",
+    "BUILT_WITH": "Creado con Angular & ❤️"
+  },
+  "LOADING": "Cargando CV...",
+  "ERROR": "Error al cargar los datos del CV"
+}

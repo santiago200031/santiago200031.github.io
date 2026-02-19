@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32"><defs><linearGradient id="blueGrad" x1="0" x2="32" y1="0" y2="32" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#007acc"/><stop offset="100%" stop-color="#036"/></linearGradient></defs><rect width="32" height="32" fill="url(#blueGrad)" rx="6"/><text x="50%" y="55%" fill="#fff" dominant-baseline="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" letter-spacing="-.5" text-anchor="middle">
+        {SV}
+    </text></svg>

@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "institution": "Hochschule Landshut",
+        "degree": "Master of Science",
+        "field": "Computer Science (Informatik)",
+        "startDate": "2025-03",
+        "endDate": "2026-09",
+        "description": "Graduate program in Computer Science with focus on artificial intelligence, machine learning, and LLM integration. Current semester includes mobile application development with Kotlin, machine learning coursework, neural networks, and AI system architecture. Advanced software engineering module focusing on managing complex software projects and career development.",
+        "skills": ["Kotlin", "Mobile Development", "Firebase", "Machine Learning", "Neural Networks", "AI System Architecture"]
+    },
+    {
+        "id": 2,
+        "institution": "Hochschule Landshut",
+        "degree": "Bachelor of Science",
+        "field": "Computer Science (Informatik)",
+        "startDate": "2021-10",
+        "endDate": "2024-11",
+        "description": "Comprehensive coursework covering algorithms, artificial intelligence, data structures, software engineering, database systems, and web development. Bachelor's thesis focused on practical software development solutions.",
+        "skills": ["Algorithmen", "Künstliche Intelligenz (KI)", "Core Java", "Cluster", "Deep Learning", "Datenstrukturen", "Software Engineering", "Datenbanken"]
+    },
+    {
+        "id": 3,
+        "institution": "Universidad Técnica de Ambato",
+        "degree": "Software Engineering",
+        "field": "Software",
+        "startDate": "2018",
+        "endDate": "2020",
+        "grade": "2.5",
+        "description": "Grade: 2.5 (Good)",
+        "skills": ["Algorithmen", "Java", "Datenstrukturen", "Software Engineering", "Database"]
+    }
+]

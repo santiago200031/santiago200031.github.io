@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "company": "NTT DATA",
+        "position": "Software Developer (Student Worker)",
+        "startDate": "2023-02",
+        "endDate": null,
+        "current": true,
+        "description": "Software development for the automotive sector with 3+ years of professional experience in Java and cloud technologies. Currently working on team efficiency improvements through VS Code with GitHub Copilot integration",
+        "highlights": [
+            "Participation in all Scrum ceremonies (Daily, Refinement, Estimation, Review)",
+            "Processing of user stories and business requirements",
+            "Ensuring business logic through unit and integration tests",
+            "Analysis and resolution of defects and incidents",
+            "AWS cloud infrastructure management and RESTful Web Services implementation",
+            "Documentation and knowledge transfer",
+            "Exploration of AI/LLM integration for automation and productivity enhancement",
+            "Developed specialized VS Code agents and custom skills to improve team productivity",
+            "Configured MCP servers through Docker for seamless integration",
+            "Worked on 2 additional automotive software projects with focus on system reliability"
+        ],
+        "technologies": [
+            "AWS",
+            "RESTful Web Services",
+            "Git",
+            "Java",
+            "Python",
+            "Scrum",
+            "VS Code",
+            "GitHub Copilot",
+            "Docker",
+            "MCP"
+        ]
+    },
+    {
+        "id": 2,
+        "company": "NTT DATA",
+        "position": "Software Developer (Internship)",
+        "startDate": "2022-10",
+        "endDate": "2023-02",
+        "current": false,
+        "description": "Internship in Portfolio Application & DevOps Services for automotive software development",
+        "highlights": [
+            "Participated in all Scrum ceremonies (Daily, Refinement, Estimation, Review)",
+            "Processed user stories and technical tasks",
+            "Ensured business functionality through unit and integration tests",
+            "Delivered presentations of work results to customers",
+            "Analyzed and fixed defects",
+            "Analyzed and processed incidents according to Service Level Agreements",
+            "Documentation"
+        ],
+        "technologies": [
+            "AWS",
+            "Git",
+            "Java",
+            "Scrum",
+            "Testing"
+        ]
+    },
+    {
+        "id": 3,
+        "company": "TÜV SÜD",
+        "position": "Software Developer (Student Worker)",
+        "startDate": "2021-10",
+        "endDate": "2022-09",
+        "current": false,
+        "description": "Software development and cloud technology projects using modern web frameworks",
+        "highlights": [
+            "Supported projects with Blazor web framework using GitHub as repository",
+            "Created workflows to automate tasks",
+            "Created ChatBots in MS Teams for customer inquiries",
+            "Git repository management and version control"
+        ],
+        "technologies": [
+            "Blazor",
+            "Git",
+            "OutSystems",
+            "C#",
+            "Workflow Automation"
+        ]
+    },
+    {
+        "id": 4,
+        "company": "Valeria Espresso Panini Bar",
+        "position": "Barista",
+        "startDate": "2021-06",
+        "endDate": "2021-09",
+        "current": false,
+        "description": "Customer service and beverage preparation in a professional café environment",
+        "highlights": [
+            "Coffee and liqueur preparation with attention to detail",
+            "Customer service and relationship management"
+        ],
+        "technologies": [
+            "Customer Service"
+        ]
+    },
+    {
+        "id": 5,
+        "company": "Vittal (Self-employed)",
+        "position": "Java Developer",
+        "startDate": "2020-07",
+        "endDate": "2020-08",
+        "current": false,
+        "description": "Development of a comprehensive Java program for a new water treatment company",
+        "highlights": [
+            "Full-stack Java application development",
+            "Database: MySQL with JDBC connectivity",
+            "IDEs: NetBeans, IntelliJ IDEA",
+            "Reports: iReport",
+            "Repository: GitHub"
+        ],
+        "technologies": [
+            "Java",
+            "MySQL",
+            "NetBeans",
+            "IntelliJ IDEA",
+            "iReport",
+            "GitHub"
+        ]
+    }
+]

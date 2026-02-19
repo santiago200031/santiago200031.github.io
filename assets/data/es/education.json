@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "institution": "Hochschule Landshut",
+        "degree": "Máster en Ciencias",
+        "field": "Ciencias de la Computación (Informatik)",
+        "startDate": "2025-03",
+        "endDate": "2026-09",
+        "description": "Programa de posgrado en Ciencias de la Computación con enfoque en inteligencia artificial, aprendizaje automático e integración de LLM. El semestre actual incluye desarrollo de aplicaciones móviles con Kotlin, cursos de aprendizaje automático, redes neuronales y arquitectura de sistemas de IA. Módulo avanzado de ingeniería de software centrado en la gestión de proyectos de software complejos y desarrollo profesional.",
+        "skills": ["Kotlin", "Desarrollo Móvil", "Firebase", "Aprendizaje Automático", "Redes Neuronales", "Arquitectura de Sistemas de IA"]
+    },
+    {
+        "id": 2,
+        "institution": "Hochschule Landshut",
+        "degree": "Licenciatura en Ciencias",
+        "field": "Ciencias de la Computación (Informatik)",
+        "startDate": "2021-10",
+        "endDate": "2024-11",
+        "description": "Cursos integrales que cubren algoritmos, inteligencia artificial, estructuras de datos, ingeniería de software, sistemas de bases de datos y desarrollo web. Tesis de licenciatura centrada en soluciones prácticas de desarrollo de software.",
+        "skills": ["Algoritmos", "Inteligencia Artificial (IA)", "Core Java", "Cluster", "Aprendizaje Profundo", "Estructuras de Datos", "Ingeniería de Software", "Bases de Datos"]
+    },
+    {
+        "id": 3,
+        "institution": "Universidad Técnica de Ambato",
+        "degree": "Ingeniería de Software",
+        "field": "Software",
+        "startDate": "2018",
+        "endDate": "2020",
+        "grade": "2.5",
+        "description": "Nota: 2.5 (Bueno)",
+        "skills": ["Algoritmos", "Java", "Estructuras de Datos", "Ingeniería de Software", "Base de Datos"]
+    }
+]

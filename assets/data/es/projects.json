@@ -1,0 +1,85 @@
+[
+    {
+        "id": 7,
+        "title": "Sistema de Gestión de Tratamiento de Agua",
+        "description": "Diseñó y desarrolló una aplicación Java integral para la gestión de instalaciones de tratamiento de agua con backend MySQL",
+        "technologies": [
+            "Java",
+            "MySQL",
+            "iReport",
+            "NetBeans"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Aplicaciones Web Blazor",
+        "description": "Desarrolló aplicaciones web modernas utilizando el marco Blazor con flujos de trabajo automatizados y bots de comunicación de equipo",
+        "technologies": [
+            "Blazor",
+            "C#",
+            "OutSystems",
+            "Git"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Desarrollo de Software Automotriz A (NTT DATA)",
+        "description": "Contribuyó a sistemas de software automotriz a gran escala para NTT DATA con enfoque en confiabilidad y rendimiento",
+        "technologies": [
+            "Java",
+            "AWS",
+            "APIs REST",
+            "Scrum",
+            "Git"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Aplicación Java Impulsada por LLM",
+        "description": "Construyó una aplicación inteligente utilizando LangChain4j con el marco Quarkus, integrando LLMs locales a través de Ollama para tareas de procesamiento de lenguaje natural y asistencia de código automatizada",
+        "technologies": [
+            "LangChain4j",
+            "Quarkus",
+            "Ollama",
+            "Java",
+            "Integración LLM"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Proyecto de Software Automotriz B (NTT DATA)",
+        "description": "Contribuyó al proyecto de desarrollo de software automotriz centrado en la integración de sistemas de vehículos y conectividad en la nube",
+        "technologies": [
+            "Java",
+            "AWS",
+            "APIs REST",
+            "Git",
+            "Scrum"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Proyecto de Software Automotriz C (NTT DATA)",
+        "description": "Desarrolló características para sistemas automotrices con enfoque en la confiabilidad y optimización del rendimiento",
+        "technologies": [
+            "Java",
+            "AWS",
+            "APIs REST",
+            "Git",
+            "CI/CD"
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Agentes de IA de VS Code y Eficiencia del Equipo",
+        "description": "Lideró el desarrollo de agentes especializados y habilidades personalizadas de VS Code para mejorar la productividad del equipo. Utilizó VS Code con GitHub Copilot para un flujo de trabajo de desarrollo mejorado. Configuró servidores MCP a través de Docker para una integración perfecta.",
+        "technologies": [
+            "VS Code",
+            "GitHub Copilot",
+            "Docker",
+            "MCP",
+            "Agentes de IA",
+            "Productividad del Equipo"
+        ]
+    }
+]

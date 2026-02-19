@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "company": "NTT DATA",
+        "position": "Softwareentwickler (Werkstudent)",
+        "startDate": "2023-02",
+        "endDate": null,
+        "current": true,
+        "description": "Softwareentwicklung für den Automobilsektor mit mehr als 3 Jahren Berufserfahrung in Java und Cloud-Technologien. Derzeitige Arbeit an der Verbesserung der Teameffizienz durch VS Code mit GitHub Copilot-Integration",
+        "highlights": [
+                "Teilnahme an allen Scrum-Zeremonien (Daily, Refinement, Estimation, Review)",
+                "Bearbeitung von User Stories und geschäftlichen Anforderungen",
+                "Sicherstellung der Geschäftslogik durch Unit- und Integrationstests",
+                "Analyse und Behebung von Fehlern und Vorfällen",
+                "Management der AWS-Cloud-Infrastruktur und Implementierung von RESTful Web Services",
+                "Dokumentation und Wissenstransfer",
+                "Erforschung der KI/LLM-Integration zur Automatisierung und Produktivitätssteigerung",
+                "Entwicklung spezialisierter VS Code-Agenten und benutzerdefinierter Skills zur Verbesserung der Teamproduktivität",
+                "Konfiguration von MCP-Servern durch Docker für nahtlose Integration",
+                "Mitarbeit an 2 weiteren Automobil-Softwareprojekten mit Fokus auf Systemzuverlässigkeit"
+        ],
+        "technologies": [
+                "AWS",
+                "RESTful Web Services",
+                "Git",
+                "Java",
+                "Python",
+                "Scrum",
+                "VS Code",
+                "GitHub Copilot",
+                "Docker",
+                "MCP"
+        ]
+    },
+    {
+        "id": 2,
+        "company": "NTT DATA",
+        "position": "Softwareentwickler (Praktikum)",
+        "startDate": "2022-10",
+        "endDate": "2023-02",
+        "current": false,
+        "description": "Praktikum im Bereich Portfolio Application & DevOps Services für Automobil-Softwareentwicklung",
+        "highlights": [
+            "Teilnahme an allen Scrum-Zeremonien (Daily, Refinement, Estimation, Review)",
+            "Bearbeitung von User Stories und technischen Aufgaben",
+            "Sicherstellung der Geschäftsfunktionalität durch Unit- und Integrationstests",
+            "Präsentation von Arbeitsergebnissen vor Kunden",
+            "Analyse und Behebung von Defekten",
+            "Analyse und Bearbeitung von Vorfällen gemäß Service Level Agreements",
+            "Dokumentation"
+        ],
+        "technologies": [
+            "AWS",
+            "Git",
+            "Java",
+            "Scrum",
+            "Testing"
+        ]
+    },
+    {
+        "id": 3,
+        "company": "TÜV SÜD",
+        "position": "Softwareentwickler (Werkstudent)",
+        "startDate": "2021-10",
+        "endDate": "2022-09",
+        "current": false,
+        "description": "Softwareentwicklung und Cloud-Technologie-Projekte unter Verwendung moderner Web-Frameworks",
+        "highlights": [
+            "Unterstützung von Projekten mit dem Blazor Web-Framework unter Verwendung von GitHub als Repository",
+            "Erstellung von Workflows zur Automatisierung von Aufgaben",
+            "Erstellung von ChatBots in MS Teams für Kundenanfragen",
+            "Git-Repository-Management und Versionskontrolle"
+        ],
+        "technologies": [
+            "Blazor",
+            "Git",
+            "OutSystems",
+            "C#",
+            "Workflow-Automatisierung"
+        ]
+    },
+    {
+        "id": 4,
+        "company": "Valeria Espresso Panini Bar",
+        "position": "Barista",
+        "startDate": "2021-06",
+        "endDate": "2021-09",
+        "current": false,
+        "description": "Kundenservice und Getränkezubereitung in einem professionellen Café-Umfeld",
+        "highlights": [
+            "Zubereitung von Kaffee und Likör mit Liebe zum Detail",
+            "Kundenservice und Beziehungsmanagement"
+        ],
+        "technologies": [
+            "Kundenservice"
+        ]
+    },
+    {
+        "id": 5,
+        "company": "Vittal (Selbstständig)",
+        "position": "Java-Entwickler",
+        "startDate": "2020-07",
+        "endDate": "2020-08",
+        "current": false,
+        "description": "Entwicklung eines umfassenden Java-Programms für ein neues Wasseraufbereitungsunternehmen",
+        "highlights": [
+            "Full-Stack Java-Anwendungsentwicklung",
+            "Datenbank: MySQL mit JDBC-Konnektivität",
+            "IDEs: NetBeans, IntelliJ IDEA",
+            "Berichte: iReport",
+            "Repository: GitHub"
+        ],
+        "technologies": [
+            "Java",
+            "MySQL",
+            "NetBeans",
+            "IntelliJ IDEA",
+            "iReport",
+            "GitHub"
+        ]
+    }
+]

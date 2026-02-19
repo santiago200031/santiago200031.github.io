@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "institution": "Hochschule Landshut",
+        "degree": "Master of Science",
+        "field": "Informatik",
+        "startDate": "2025-03",
+        "endDate": "2026-09",
+        "description": "Masterstudium der Informatik mit Fokus auf künstliche Intelligenz, maschinelles Lernen und LLM-Integration. Aktuelles Semester umfasst mobile Anwendungsentwicklung mit Kotlin, Lehrveranstaltungen zu maschinellem Lernen, neuronalen Netzen und KI-Systemarchitektur. Modul 'Advanced Software Engineering' mit Fokus auf Management komplexer Softwareprojekte und Karriereentwicklung.",
+        "skills": ["Kotlin", "Mobile Entwicklung", "Firebase", "Maschinelles Lernen", "Neuronale Netze", "KI-Systemarchitektur"]
+    },
+    {
+        "id": 2,
+        "institution": "Hochschule Landshut",
+        "degree": "Bachelor of Science",
+        "field": "Informatik",
+        "startDate": "2021-10",
+        "endDate": "2024-11",
+        "description": "Umfassendes Studium in Algorithmen, künstlicher Intelligenz, Datenstrukturen, Software Engineering, Datenbanksystemen und Webentwicklung. Bachelorarbeit mit Fokus auf praktische Softwareentwicklungslösungen.",
+        "skills": ["Algorithmen", "Künstliche Intelligenz (KI)", "Core Java", "Cluster", "Deep Learning", "Datenstrukturen", "Software Engineering", "Datenbanken"]
+    },
+    {
+        "id": 3,
+        "institution": "Universidad Técnica de Ambato",
+        "degree": "Software Engineering",
+        "field": "Software",
+        "startDate": "2018",
+        "endDate": "2020",
+        "grade": "2.5",
+        "description": "Note: 2.5 (Gut)",
+        "skills": ["Algorithmen", "Java", "Datenstrukturen", "Software Engineering", "Datenbank"]
+    }
+]

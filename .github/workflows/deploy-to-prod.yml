@@ -20,11 +20,15 @@ jobs:
         with:
           ref: ${{ github.event.inputs.source_branch }}
       
-      - name: Deploy to production
+      - name: Force overwrite prod-branch with master
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git fetch origin
-          git checkout ${{ github.event.inputs.target_branch }}
-          git merge origin/${{ github.event.inputs.source_branch }}
-          git push origin ${{ github.event.inputs.target_branch }}
+          git checkout ${{ github.event.inputs.target_branch }} || git checkout -b ${{ github.event.inputs.target_branch }}
+          git rm -rf .
+          git clean -fdx
+          git checkout ${{ github.event.inputs.source_branch }} -- .
+          git add .
+          git commit -m "Deploy from ${{ github.event.inputs.source_branch }} to ${{ github.event.inputs.target_branch }}" || echo "No changes to commit"
+          git push --force origin ${{ github.event.inputs.target_branch }}

@@ -1,0 +1,30 @@
+name: Manual Deploy to Production
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_branch:
+        description: 'Source branch to deploy from'
+        required: true
+        default: 'master'
+      target_branch:
+        description: 'Target branch to deploy to'
+        required: true
+        default: 'prod-branch'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.inputs.source_branch }}
+      
+      - name: Deploy to production
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git fetch origin
+          git checkout ${{ github.event.inputs.target_branch }}
+          git merge origin/${{ github.event.inputs.source_branch }}
+          git push origin ${{ github.event.inputs.target_branch }}

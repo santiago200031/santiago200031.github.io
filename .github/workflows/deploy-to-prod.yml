@@ -4,31 +4,46 @@ on:
   workflow_dispatch:
     inputs:
       source_branch:
-        description: 'Source branch to deploy from'
+        description: "Source branch to deploy from"
         required: true
-        default: 'master'
+        default: "master"
       target_branch:
-        description: 'Target branch to deploy to'
+        description: "Target branch to deploy to"
         required: true
-        default: 'prod-branch'
+        default: "prod-branch"
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Step 1: Checkout the source branch
+      - name: Checkout source branch
+        uses: actions/checkout@v3
         with:
           ref: ${{ github.event.inputs.source_branch }}
-      
-      - name: Force overwrite prod-branch with master
+
+      # Step 2: Switch to the target branch
+      - name: Switch to target branch
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git fetch origin
           git checkout ${{ github.event.inputs.target_branch }} || git checkout -b ${{ github.event.inputs.target_branch }}
+
+      # Step 3: Clean the target branch
+      - name: Clean target branch
+        run: |
           git rm -rf .
           git clean -fdx
+
+      # Step 4: Copy files from source branch
+      - name: Copy files from source branch
+        run: |
           git checkout ${{ github.event.inputs.source_branch }} -- .
+
+      # Step 5: Commit and push changes
+      - name: Commit and push changes
+        run: |
           git add .
           git commit -m "Deploy from ${{ github.event.inputs.source_branch }} to ${{ github.event.inputs.target_branch }}" || echo "No changes to commit"
           git push --force origin ${{ github.event.inputs.target_branch }}
